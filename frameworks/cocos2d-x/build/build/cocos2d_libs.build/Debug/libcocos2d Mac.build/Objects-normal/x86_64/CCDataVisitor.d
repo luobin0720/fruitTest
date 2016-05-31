@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/build/../cocos/deprecated/CCSet.h

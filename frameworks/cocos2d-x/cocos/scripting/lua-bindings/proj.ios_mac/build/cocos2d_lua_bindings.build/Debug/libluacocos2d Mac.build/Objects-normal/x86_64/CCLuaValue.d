@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformMacros.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformConfig.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformDefine.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCPlatformDefine-mac.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCStdC.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCStdC-mac.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccRandom.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCGL.h \
+  /Users/luobin/Documents/CocosProjects/test2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCGL-mac.h
